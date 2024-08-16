@@ -1,0 +1,29 @@
+/* digital clock styling  */
+.digital-clock{
+    background-color: #b52f89;
+    color: #fff;
+    font-size: 3rem;
+    font-family: 'Rajdhani', sans-serif;
+    width: 390px;
+    border:1rem solid #4c5252;
+}
+/* am-pm styling */
+#am-pm{
+    background-color: #4c5252;
+    font-size: 2.5rem;
+}
+
+/* clock details styling */
+.clock-details{
+    font-size: 1.5rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: rgb(241, 239, 239);
+    background-color: #4c5252;
+}
+
+/* footer section styling */
+footer{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
